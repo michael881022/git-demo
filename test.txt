@@ -1,1 +1,2 @@
 Testing Git installation
+This is my first update on GitHub
