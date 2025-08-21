@@ -6,3 +6,4 @@ Change from teammate on Aug 14
 Conflict line from my-project Resolve merge conflict in README.md
 =======
 >>>>>>> 053cae3b3d32a3ed99e820a1233af6ad31f0839a
+Change from my-project on Aug 20
